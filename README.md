@@ -17,8 +17,6 @@ Users should be able to:
 - Solution URL:  (https://www.frontendmentor.io/solutions/fylo-landing-page-using-flex-HHg2gL7Fk_)
 - Live Site URL: (https://talebsleiman.github.io/Fylo-Landing-Page/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -29,4 +27,3 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@talebSleiman](https://www.frontendmentor.io/profile/talebSleiman)
-
